@@ -31,6 +31,8 @@ Python
 
 ![alt text](Images/humidity_vs_lat.png?raw=true "Humidity vs. Latitude")
 
+![alt text](Images/max_temp_vs_lat.png?raw=true "Remperature vs. Latitude")
+
 ## Linear Regression
 
 ###### Northern Hemisphere - Temperature vs. Latitude
