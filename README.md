@@ -23,7 +23,7 @@ Python
 
 ## Visualizations
 
-![alt text](https://github.com/collan18/What-s-the-Weather-Like-/tree/collan18/Images/heatmap.jpg?raw=true)
+![alt text](https://github.com/collan18/What-s-the-Weather-Like-/tree/collan18/Images)
 
 # Analysis
 The negative r-squared value indicates inverse relationship between the variables, whereas a positive r-squared value indicates a direct relationship between variables under consideration.
