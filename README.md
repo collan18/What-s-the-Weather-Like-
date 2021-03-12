@@ -33,7 +33,7 @@ Python
 
 ## Linear Regression
 
-#### Temperature vs. Latitude - Northern Hemisphere
+###### Northern Hemisphere - Temperature vs. Latitude
 ![alt text](Images/NH-lin_regress_max_temp_vs_lat.png?raw=true "Temperature vs. Latitude - Northern Hemisphere")
 #### r-squared: -0.88
 
