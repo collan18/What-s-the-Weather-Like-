@@ -33,29 +33,12 @@ Python
 
 ## Linear Regression
 
-![alt text](Images/NH - Cloudiness vs. Lat Lin Regress.png?raw=true "Cloudiness vs. Latitude - Northern Hemisphere")
-##### r-squared: 0.2
-
-![alt text](Images/SH - Cloudiness vs. Lat Lin Regress.png?raw=true "Cloudiness vs. Latitude - Southern Hemisphere")
-##### r-squared: 0.27
-
-![alt text](Images/NH - Humidity vs. Lat Lin Regress.png?raw=true "Humidity vs. Latitude - Northern Hemisphere")
-##### r-squared: 0.35
-
-![alt text](Images/SH - Humidity vs. Lat Lin Regress.png?raw=true "Humidity vs. Latitude - Southern Hemisphere")
-##### r-squared: 0.34
-
-![alt text](Images/NH - Wind Speed vs. Lat Lin Regress.png?raw=true "Wind Speed vs. Latitude - Northern Hemisphere")
-##### r-squared: 0.24
-
-![alt text](Images/SH - Wind Speed vs. Lat Lin Regress.png?raw=true "Wind Speed vs. Latitude - Southern Hemisphere")
-##### r-squared: -0.37
-
+#### Temperature vs. Latitude - Northern Hemisphere
 ![alt text](Images/NH-lin_regress_max_temp_vs_lat.png?raw=true "Temperature vs. Latitude - Northern Hemisphere")
-##### r-squared: -0.88
+#### r-squared: -0.88
 
 ![alt text](Images/SH-lin_regress_max_temp_vs_lat.png?raw=true "Temperature vs. Latitude - Southern Hemisphere")
-##### r-squared: 0.49
+#### r-squared: 0.49
 
 # Analysis
 The negative r-squared value indicates inverse relationship between the variables, whereas a positive r-squared value indicates a direct relationship between variables under consideration.
