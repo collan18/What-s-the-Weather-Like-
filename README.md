@@ -23,7 +23,33 @@ Python
 
 ## Visualizations
 
-![alt text](https://github.com/collan18/What-s-the-Weather-Like-/tree/collan18/Images)
+![alt text](Images/heatmap.png?raw=true "Heatmap")
+
+![alt text](Images/hotel_map.png?raw=true "Hotel Locations")
+
+![alt text](Images/cloudiness_vs_lat.png?raw=true "Cloudiness vs. Latitude")
+
+![alt text](Images/humidity_vs_lat.png?raw=true "Humidity vs. Latitude")
+
+## Linear Regression
+
+![alt text](Images/lin_regress_max_temp_vs_lat.png?raw=true "Maximum Temperature vs. Latitude")
+
+![alt text](Images/NH - Cloudiness vs. Lat Lin Regress.png?raw=true "Cloudiness vs. Latitude - Northern Hemisphere")
+
+![alt text](Images/SH - Cloudiness vs. Lat Lin Regress.png?raw=true "Cloudiness vs. Latitude - Southern Hemisphere")
+
+![alt text](Images/NH - Humidity vs. Lat Lin Regress.png?raw=true "Humidity vs. Latitude - Northern Hemisphere")
+
+![alt text](Images/SH - Humidity vs. Lat Lin Regress.png?raw=true "Humidity vs. Latitude - Southern Hemisphere")
+
+![alt text](Images/NH - Wind Speed vs. Lat Lin Regress.png?raw=true "Wind Speed vs. Latitude - Northern Hemisphere")
+
+![alt text](Images/SH - Wind Speed vs. Lat Lin Regress.png?raw=true "Wind Speed vs. Latitude - Southern Hemisphere")
+
+![alt text](Images/NH-lin_regress_max_temp_vs_lat.png?raw=true "Temperature vs. Latitude - Northern Hemisphere")
+
+![alt text](Images/SH-lin_regress_max_temp_vs_lat.png?raw=true "Temperature vs. Latitude - Southern Hemisphere")
 
 # Analysis
 The negative r-squared value indicates inverse relationship between the variables, whereas a positive r-squared value indicates a direct relationship between variables under consideration.
